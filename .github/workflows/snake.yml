@@ -5,8 +5,7 @@
   with:
     # github user name
     github_user_name: PanGami
-    # path of the generated gif
-    gif_out_path: # optional, default is ./github-contribution-grid-snake.gif
+    # path of the generated gif # optional, default is ./github-contribution-grid-snake.gif
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
