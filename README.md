@@ -30,7 +30,7 @@ const Panca = {
 ### ♥️ Contribution Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami&theme=github)](https://github.com/PanGami/github-readme-activity-graph)
 
-### 🛠 Tech Stack
+### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
