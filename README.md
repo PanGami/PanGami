@@ -58,6 +58,7 @@ const Panca = {
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black)
 
+![snake gif](https://github.com/PanGami/PanGami/blob/output/github-contribution-grid-snake.gif)
 
 <br>
 
