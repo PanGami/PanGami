@@ -1,7 +1,10 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/PanGami">PanGami</a>'s Profile 👋</h1>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%2313A9F7&size=25&lines=Hello+There+!;Welcome+to+my+GitHub+Profile!;I'm+a+Student" />
+
+<img src="https://media1.giphy.com/media/dNgK7Ws7y176U/giphy.gif?cid=ecf05e47hmmqmt32lu0utxe73qhoakav8eet4bkysuedy52m&rid=giphy.gif&ct=g">|<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%2313A9F7&size=25&lines=Hello+There+!;Welcome+to+my+GitHub+Profile!;I'm+a+Student"/>
+|---|---|
+
 <ul>
   <li>👋 Hi There!</li>
   <li>❤️ I love Learning.</li>
@@ -23,7 +26,8 @@ const Panca = {
 }
 ```
 
-### ↗️ Stats
+### Stats <img src="https://media1.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif?cid=ecf05e47v0jjnwtk5px6cb5q6tbvbi8v246qnhnar0kwk88z&rid=giphy.gif&ct=g" width =32px>
+
 <img src="https://github-readme-stats.vercel.app/api?username=PanGami&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanGami&theme=react"/>
 |---|---|
 
