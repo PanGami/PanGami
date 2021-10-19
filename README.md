@@ -18,8 +18,8 @@
 const Panca = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Java", "HTML", "CSS"],
-  askMeAbout: ["Frontend Dev", "Backend Dev"],
-  technologies: {
+  askMe: ["Frontend Dev", "Backend Dev"],
+  tech: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
       backend: ["Java", "PHP", "JS", "SQL"],
   }
