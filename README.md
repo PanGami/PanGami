@@ -21,7 +21,7 @@ const Panca = {
   askMe: ["Frontend Dev", "Backend Dev"],
   tech: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: ["Java", "PHP", "JS", "SQL"],
+      backend: ["Java", "PHP", "JS", "SQL","Node"],
   }
 }
 ```
