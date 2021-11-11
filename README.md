@@ -10,6 +10,7 @@
   <li>❤️ I love Learning.</li>
   <li>🌱 I’m currently learning Web Development, Java, Js, Node.js, React.js.</li>
   <li>💼 I'm a Student at SMK Telkom Malang.</li>
+  <li>:trophy: Certificates : https://bit.ly/2WfcXgz</li>
   <li>🧐 Portfolio Website, Coming soon...</li>
 </ul>
 
