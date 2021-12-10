@@ -27,6 +27,8 @@ const Panca = {
 }
 ```
 
+<br><img src="https://user-images.githubusercontent.com/65394405/145529099-3a110204-2e26-4150-934d-abcc4179df8c.png" width = 73px>
+
 ### Stats <img src="https://media1.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif?cid=ecf05e47v0jjnwtk5px6cb5q6tbvbi8v246qnhnar0kwk88z&rid=giphy.gif&ct=g" width =32px>
 
 <img src="https://github-readme-stats.vercel.app/api?username=PanGami&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanGami&theme=react"/>
