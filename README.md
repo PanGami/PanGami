@@ -34,8 +34,9 @@ const Panca = {
 <img src="https://github-readme-stats.vercel.app/api?username=PanGami&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanGami&theme=react"/>
 |---|---|
 
-### ♥️ Contribution Graph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami&theme=github)](https://github.com/PanGami/github-readme-activity-graph)
+### ♥️ Contribution Graph 
+### Hey! Sometimes this Graph is not showing
+[![PanGami's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
