@@ -77,14 +77,14 @@ const Panca = {
 
 <h4 align="center">Connect With Me!</h4>
 <p align="center">
-  <a href="https://linkedin.com/in/"><img alt="Linkedin" title="Coming Soon Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/PanGami"><img alt="Github" title="PanGami Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/panca-nugraha-wicaksana-81a365233/"><img alt="Linkedin" title="Panca's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/PanGami"><img alt="Github" title="PanGami's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.snapchat.com/add/"><img alt="Snapchat" title="Coming Soon SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
-  <a href="https://facebook.com/PanGamiDev"><img alt="Facebook" title="PanGami FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/whatever_pan/"><img alt="Instagram" title="PanGami Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://facebook.com/PanGamiDev"><img alt="Facebook" title="Panca's FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/whatever_pan/"><img alt="Instagram" title="Pan's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="pancanugrahawicaksana@gmail.com"><img alt="Gmail" title="PanGami Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/"><img alt="Telegram" title="PanGami Telegram - Coming soon" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="http://twitter.com/ "><img alt="Twitter" title="PanGami Twitter - Coming soon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://t.me/"><img alt="Telegram" title="Pan's Telegram - Coming soon" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="http://twitter.com/ "><img alt="Twitter" title="Pan's Twitter - Coming soon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
