@@ -8,7 +8,7 @@
 <ul>
   <li>👋 Hi There!</li>
   <li>❤️ I love Learning.</li>
-  <li>🌱 I’m currently learning Web Development, Java, Js, Node.js, React.js.</li>
+  <li>🌱 I’m currently learning Web Development, Java, Js, Node.js, React.js, Laravel, Vue, C#</li>
   <li>💼 I'm a Student at SMK Telkom Malang.</li>
   <li>:trophy: Certificates : https://drive.google.com/drive/folders/1_aRqESfESfhKBJ-lagS9zBXwswIh2MOD</li>
   <li>🧐 Portfolio Website, Coming soon...</li>
@@ -35,7 +35,7 @@ const Panca = {
 |---|---|
 
 ### ♥️ Contribution Graph 
-### Hey! Sometimes this Graph is not showing
+### Hey! Sometimes this Graph is not showing Don't be surprised if there are few contributions! Now I'm focusing on private projects
 [![PanGami's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
