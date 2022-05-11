@@ -18,11 +18,11 @@
 ```javascript
 const Panca = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Java", "HTML", "CSS"],
-  askMe: ["Frontend Dev", "Backend Dev"],
+  code: ["Anything if i needed to!"],
+  askMe: ["Frontend Dev", "Backend Dev", "Fullstack"],
   tech: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: ["Java", "PHP", "JS", "SQL","Node"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React", "Vue", "Tailwind"],
+      backend: ["Java", "PHP", "JS", "SQL","Node","Laravel"],
   }
 }
 ```
