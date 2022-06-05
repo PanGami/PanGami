@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/PanGami">PanGami</a>'s Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1 align="center">Welcome to <a href="https://github.com/PanGami">PanGami</a>'s Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"></h1>
 </p>
 
 <img src="https://media1.giphy.com/media/dNgK7Ws7y176U/giphy.gif?cid=ecf05e47hmmqmt32lu0utxe73qhoakav8eet4bkysuedy52m&rid=giphy.gif&ct=g" width = 490px>|<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%2313A9F7&size=25&lines=Hello+There+!;Welcome+to+my+GitHub+Profile!;I'm+a+Student"/>
@@ -27,9 +27,9 @@ const Panca = {
 }
 ```
 
-<br><img src="https://user-images.githubusercontent.com/65394405/145529099-3a110204-2e26-4150-934d-abcc4179df8c.png" width = 73px>
+<br><img src="https://user-images.githubusercontent.com/65394405/145529099-3a110204-2e26-4150-934d-abcc4179df8c.png" width="73" height="73">
 
-### Stats <img src="https://media1.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif?cid=ecf05e47v0jjnwtk5px6cb5q6tbvbi8v246qnhnar0kwk88z&rid=giphy.gif&ct=g" width =32px>
+### Stats <img src="https://media1.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif?cid=ecf05e47v0jjnwtk5px6cb5q6tbvbi8v246qnhnar0kwk88z&rid=giphy.gif&ct=g" width="32" height="32">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PanGami&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanGami&theme=react"/>
 |---|---|
@@ -38,7 +38,7 @@ const Panca = {
 ### Hey! Sometimes this Graph is not showing Don't be surprised if there are few contributions! Now I'm focusing on private projects
 [![PanGami's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
