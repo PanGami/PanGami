@@ -28,6 +28,7 @@ const Panca = {
 ```
 
 <br><img src="https://user-images.githubusercontent.com/65394405/145529099-3a110204-2e26-4150-934d-abcc4179df8c.png" width="73" height="73">
+<img src="https://user-images.githubusercontent.com/65394405/209057718-4cd8d518-2bcf-49d6-957b-fc1731d95eee.png" width="73" height="73">
 
 ### Stats <img src="https://media1.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif?cid=ecf05e47v0jjnwtk5px6cb5q6tbvbi8v246qnhnar0kwk88z&rid=giphy.gif&ct=g" width="32" height="32">
 
