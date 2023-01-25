@@ -36,7 +36,7 @@ const Panca = {
 |---|---|
 
 ### ♥️ Contribution Graph 
-### Hey! Sometimes this Graph is not showing Don't be surprised if there are few contributions! Now I'm focusing on private projects
+### I apologize if the graph is not displaying as expected. Please note that my focus on private projects may result in a limited number of contributions at this time.
 [![PanGami's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
