@@ -8,8 +8,8 @@
 <ul>
   <li>👋 Hi There!</li>
   <li>❤️ I love Learning.</li>
-  <li>🌱 I’m currently learning Web Development, Java, Js, Node.js, React.js, Laravel, Vue, C#</li>
-  <li>💼 I'm a Student at SMK Telkom Malang.</li>
+  <li>🌱 I’m can work on Web Development with Js, Node.js, React.js, Laravel, Vue, Go, Rust</li>
+  <li>💼 I'm a Undergraduate Binus Online Learning University.</li>
   <li>:trophy: Certificates : https://drive.google.com/drive/folders/1_aRqESfESfhKBJ-lagS9zBXwswIh2MOD</li>
   <li>🧐 Portfolio Website, Coming soon...</li>
 </ul>
